@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,6 +13,7 @@
     "axios": "^0.18.0",
     "discord.js": "^11.4.2",
     "dotenv": "^6.2.0",
-    "enmap": "^4.5.0"
+    "enmap": "^4.5.0",
+    "start": "^5.1.0"
   }
 }
